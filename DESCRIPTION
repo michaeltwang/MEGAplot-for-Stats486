@@ -1,0 +1,9 @@
+Package: MEGAplot
+Type: Package
+Title: Megaplot - Scatterplot and Inverted Histograms
+Version: 1.0
+Date: 2018-09-14
+Author: Michael Wang, code by Prof. Cabrera
+Maintainer: Michael Wang <michael.t.wang@rutgers.edu>
+Description: Contains functions that can display a layout that contains a scatterplot and two inverted histograms on each axis. Also contains a dataset of medical data of Pima Indians.
+License: LGPL
