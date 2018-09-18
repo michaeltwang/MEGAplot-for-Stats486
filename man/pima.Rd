@@ -5,7 +5,7 @@
 Pima Indians Dataset
 }
 \description{
-Dataset of health related numerical data of Pima Indians related to diabetes.
+Dataset of health related numerical data of Pima Indians related to diabetes. Access this file by performing: system.file("extdata", "PIMA.csv", package = "MEGAplot")
 }
 \usage{data("PIMA.csv")}
 \format{
